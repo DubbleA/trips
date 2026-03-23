@@ -4,31 +4,12 @@
 
 ## ✈️ Flights
 
-### Booked — United (SFO ↔ SYD)
 | Flight | Route | Date | Time | Status |
 |--------|-------|------|------|--------|
-| UA 863 | SFO → SYD | Sep 3 → Sep 5 | 11:00pm → 6:55am (14h 55m) | ✅ Booked (waitlist 31J) |
-| UA 870 | SYD → SFO | Sep 13 | 10:20am → 6:50am (13h 30m) | ✅ Booked (waitlist 31J) |
-
-### To Book — Jetstar (SYD ↔ PPP)
-| Flight | Route | Date | Price (AUD/pp) | Notes |
-|--------|-------|------|----------------|-------|
-| JQ 840 | SYD → PPP | Mon Sep 7 | ~$125 | ~3h 25m. Then 40-min shuttle to Airlie Beach. |
-| JQ 841 | PPP → SYD | Fri Sep 11 | ~$199 | ~2h 35m. Book morning departure for full day in Sydney. |
-
-**Baggage pricing:**
-| Fare type | Cost (AUD/pp one-way) | Includes |
-|-----------|-----------------------|----------|
-| Starter (no bag) | ~$80–160 | 7kg carry-on only |
-| Starter + checked bag (15kg) | ~$135–215 | +$55 for 15kg checked bag (pre-purchase online) |
-| Starter + checked bag (20kg) | ~$155–235 | +$75 for 20kg (15kg + 5kg extra at $20/kg) |
-| At the airport (if you forget) | way more | 20kg flat rate, significantly more than online |
-
-**2 people round trip with 15kg checked bags:** ~$540–860 AUD (~$370–590 USD) total
-
-**Book at:** [jetstar.com](https://www.jetstar.com/au/en/home) · [Baggage info](https://www.jetstar.com/au/en/flights/baggage/checked-baggage)
-
-Jetstar opens bookings ~12 months out — may not be available until ~Sep 2025.
+| UA 863 | SFO → SYD | Wed Sep 3 → Fri Sep 5 | 11:00pm → 6:55am (14h 55m) | ✅ Booked |
+| JQ 840 | SYD → PPP | Mon Sep 7 | 11:30am → 2:05pm (2h 35m) | ✅ Booked |
+| JQ 841 | PPP → SYD | Fri Sep 11 | 2:45pm → 5:10pm (2h 25m) | ✅ Booked |
+| UA 870 | SYD → SFO | Sun Sep 13 | 10:20am → 6:50am (13h 30m) | ✅ Booked |
 
 ### Getting from PPP to Airlie Beach
 | Option | Time | Cost (AUD/pp) | Notes |
@@ -100,7 +81,7 @@ Jetstar opens bookings ~12 months out — may not be available until ~Sep 2025.
 
 ## 🗓️ DAY 3 — Mon Sep 7: Fly to Whitsundays + Settle In
 
-*Morning flight SYD → PPP (Jetstar ~$125/pp). Shuttle to Airlie Beach (~40 min).*
+*JQ840 departs SYD 11:30am → arrives PPP 2:05pm. Shuttle to Airlie Beach, arrive ~3pm.*
 
 | # | Activity | DIY? | Cost (AUD/pp) | Book |
 |---|----------|------|---------------|------|
@@ -138,7 +119,7 @@ Jetstar opens bookings ~12 months out — may not be available until ~Sep 2025.
 
 ## 🗓️ DAY 6 — Thu Sep 10: Flex Day (Whitsundays)
 
-*Pick 1-2 depending on energy/budget.*
+*Last full day in the Whitsundays. Pick 1-2 depending on energy/budget.*
 
 | # | Activity | DIY? | Cost (AUD/pp) | Book |
 |---|----------|------|---------------|------|
@@ -155,22 +136,28 @@ Jetstar opens bookings ~12 months out — may not be available until ~Sep 2025.
 
 ---
 
-## 🗓️ DAY 7 — Fri Sep 11: Fly Back to Sydney
+## 🗓️ DAY 7 — Fri Sep 11: Morning in Airlie → Fly Back to Sydney
 
-*Fly PPP → SYD (~$199/pp). Full afternoon/evening in Sydney.*
+*JQ841 departs PPP 2:45pm → arrives SYD 5:10pm. Leave Airlie by ~1pm for airport.*
 
+**Morning (Airlie Beach):**
 | # | Activity | DIY? | Cost (AUD/pp) | Book |
 |---|----------|------|---------------|------|
-| 1 | **Darling Harbour walk** — Waterfront stroll, bars, Harbourside dining | ✅ Free | $0 | — |
-| 2 | **Harbour tall ship twilight dinner cruise** — Evening sail on a tall ship with dinner. Nice farewell. | ❌ Ticketed | ~$150+ | [Viator](https://www.viator.com/tours/Sydney/Sydney-Harbour-Tall-Ship-Twilight-Dinner-Cruise/d357-5067SYDTWILIGHT) |
-| 3 | **Barangaroo dinner** — A'Mare (Italian fine dining at Crown), Watermans (wood-fired Mediterranean) | Walk-in / reserve | $$–$$$ | — |
-| 4 | **Newtown / Enmore** — Eclectic neighborhood, cheap eats, indie bars, Thai + Vietnamese | ✅ Free to walk | $–$$ | — |
+| 1 | **Last morning walk / lagoon / breakfast** | ✅ Free | $0 | — |
+| 2 | **Quick hike — Beak Lookout** (3.9km, ~1.5hrs) if you didn't do it Day 6 | ✅ Free | $0 | — |
+
+**Evening (Sydney — arrive ~5:10pm):**
+| # | Activity | DIY? | Cost (AUD/pp) | Book |
+|---|----------|------|---------------|------|
+| 1 | **Barangaroo dinner** — A'Mare (Italian fine dining at Crown), Watermans (wood-fired Mediterranean) | Walk-in / reserve | $$–$$$ | — |
+| 2 | **Darling Harbour walk + dinner** — Waterfront stroll, bars, dining | ✅ Free | $0 | — |
+| 3 | **Newtown / Enmore** — Eclectic neighborhood, cheap eats, indie bars, Thai + Vietnamese | ✅ Free to walk | $–$$ | — |
 
 ---
 
 ## 🗓️ DAY 8 — Sat Sep 12: Sydney (Full Day)
 
-*Flex day — do Blue Mountains or chill in Sydney.*
+*Flex day — do Blue Mountains or chill in Sydney. Last full day before flying home.*
 
 | # | Activity | DIY? | Cost (AUD/pp) | Book |
 |---|----------|------|---------------|------|
@@ -184,12 +171,13 @@ Jetstar opens bookings ~12 months out — may not be available until ~Sep 2025.
 | # | Activity | DIY? | Cost (AUD/pp) | Book |
 |---|----------|------|---------------|------|
 | 1 | **All-inclusive Blue Mountains guided tour** — Hotel pickup, Featherdale Wildlife Park (koalas/kangaroos, open 8am–5pm Sat), Three Sisters, Scenic World, lunch, ferry return. | ❌ Paid tour | ~$150–200 | [Viator](https://www.viator.com/tours/Sydney/All-Inclusive-Blue-Mountains-Small-Group-Day-Trip-from-Sydney/d357-22584P1) |
+| 2 | **Harbour tall ship twilight dinner cruise** — Evening sail on a tall ship with dinner. Nice farewell. | ❌ Ticketed | ~$150+ | [Viator](https://www.viator.com/tours/Sydney/Sydney-Harbour-Tall-Ship-Twilight-Dinner-Cruise/d357-5067SYDTWILIGHT) |
 
 ---
 
 ## 🗓️ DAY 9 — Sun Sep 13: Depart
 
-*Flight at 10:20am. Pack and go.*
+*UA 870 departs SYD 10:20am. Pack and go.*
 
 ---
 
@@ -199,8 +187,8 @@ Jetstar opens bookings ~12 months out — may not be available until ~Sep 2025.
 |---|------|--------|
 | 1 | UA 863 SFO → SYD (Sep 3) | ✅ Booked |
 | 2 | UA 870 SYD → SFO (Sep 13) | ✅ Booked |
-| 3 | Jetstar SYD → PPP (Mon Sep 7, ~$125/pp) | ⬜ To book |
-| 4 | Jetstar PPP → SYD (Fri Sep 11, ~$199/pp) | ⬜ To book |
+| 3 | JQ 840 SYD → PPP (Mon Sep 7, 11:30am) | ✅ Booked |
+| 4 | JQ 841 PPP → SYD (Fri Sep 11, 2:45pm) | ✅ Booked |
 | 5 | Sydney accommodation (Sep 5–6 + Sep 11) | ⬜ To book |
 | 6 | Airlie Beach accommodation (Sep 7–10) | ⬜ To book |
 | 7 | Whitehaven Beach tour — Day 4 | ⬜ To book |
