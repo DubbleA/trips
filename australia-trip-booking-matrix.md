@@ -4,19 +4,21 @@ _Last updated: Aug 8, 2026_
 
 This is the working booking sheet for the Sep 2026 Australia trip. The original itinerary remains in [`australia-trip-sep2026.md`](https://github.com/DubbleA/trips/blob/main/australia-trip-sep2026.md).
 
+> **Security note:** airline booking references and other private reservation identifiers are intentionally omitted from this public document.
+
 ## Current locked structure
 
-| Date | Location | Status | Plan |
-|---|---|---|---|
-| Sat Sep 5 | Sydney | 🔒 Locked | The Rocks → Circular Quay → Sydney Opera House → Royal Botanic Garden → Mrs Macquarie's Chair. Optional Harbour Bridge / Pylon. |
-| Sun Sep 6 | Sydney | 🔒 Locked | Bondi Beach → Tamarama → Bronte → Clovelly / Gordon's Bay → Coogee. Optional Bondi Icebergs + Coogee drinks / Surry Hills dinner. |
-| Mon Sep 7 | Sydney → Airlie | ✅ Flight booked | JQ840 11:30 SYD → 14:05 PPP; transfer to Airlie; easy night. |
-| Tue Sep 8 | Whitsundays | 🟨 Near-lock | **Outer Great Barrier Reef day** — Bait Reef preferred; Hardy Reef fallback / comfort alternative. |
-| Wed Sep 9 | Airlie | 🟨 Optional | **Early skydive** if we want it and an early slot is available. Then check out, store airline luggage, and board 2D2N sailing. |
-| Wed Sep 9 → Fri Sep 11 | Whitsundays | 🟨 BOOK NEXT | **2D2N sailing** — compare Entice / Entice II vs Whitsunday Adventurer vs Apollo below. |
-| Fri Sep 11 | Airlie → Sydney | ⚠️ CHANGE FLIGHT | Current JQ841 is 14:45. Because booking is Flex Plus, move to the **later same-day PPP→SYD flight** if choosing a noon/2pm-return boat. No change fee; fare difference may apply. |
-| Sat Sep 12 | Sydney | 🟨 TBD | A: Blue Mountains + Scenic World. B: Manly Ferry → Manly → Shelly Beach. Optional Sydney Opera House show that night. |
-| Sun Sep 13 | Sydney → SFO | ✅ Flight booked | UA870 home. |
+| Date | Location | Status | Plan | Links |
+|---|---|---|---|---|
+| Sat Sep 5 | Sydney | 🔒 Locked | The Rocks → Circular Quay → Sydney Opera House → Royal Botanic Garden → Mrs Macquarie's Chair. Optional Harbour Bridge / Pylon. | [The Rocks](https://www.sydney.com/destinations/sydney/sydney-city/the-rocks) · [Sydney Opera House](https://www.sydneyoperahouse.com/) · [Royal Botanic Garden](https://www.botanicgardens.org.au/royal-botanic-garden-sydney) · [Harbour Bridge / Pylon](https://pylonlookout.com.au/) |
+| Sun Sep 6 | Sydney | 🔒 Locked | Bondi Beach → Tamarama → Bronte → Clovelly / Gordon's Bay → Coogee. Optional Bondi Icebergs + Coogee drinks / Surry Hills dinner. | [Bondi → Coogee official guide](https://www.sydney.com/things-to-do/nature-and-parks/walks/bondi-to-coogee-coastal-walk) · [Bondi Icebergs](https://icebergs.com.au/swimming-pool/) · [Coogee](https://www.sydney.com/destinations/sydney/sydney-east/coogee) · [Surry Hills](https://www.sydney.com/destinations/sydney/sydney-city/surry-hills) |
+| Mon Sep 7 | Sydney → Airlie | ✅ Flight booked | JQ840 11:30 SYD → 14:05 PPP; transfer to Airlie; easy night. | [Whitsunday Coast Airport](https://www.whitsundaycoastairport.com.au/) · [Airlie Beach](https://www.tourismwhitsundays.com.au/mainland/airlie-beach) · [Airlie Beach Lagoon](https://www.tourismwhitsundays.com.au/products/airlie-beach-lagoon) |
+| Tue Sep 8 | Whitsundays | 🟨 Near-lock | **Outer Great Barrier Reef day** — Bait Reef preferred; Hardy Reef fallback / comfort alternative. Optional Mama Africa afterward. | [Bait Reef / Explore Group](https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/) · [Hardy Reef / Reefworld](https://www.cruisewhitsundays.com/experiences/great-barrier-reef-full-day-adventure/) · [Mama Africa](https://www.airliebeachlive.com/venues/mama-africa) |
+| Wed Sep 9 | Airlie | 🟨 Optional | **Early skydive** if wanted and an early slot is available. Then check out, store airline luggage, and board 2D2N sailing. | [Skydive Airlie Beach](https://www.skydive.com.au/locations/airlie-beach/) · [Bag storage](https://sailing-whitsundays.com/whitsundays/airlie-beach-bag-storage) · [Entice II](https://sailing-whitsundays.com/whitsundays/entice-ii-2d2n) · [Entice](https://sailing-whitsundays.com/whitsundays/entice-2d2n) · [Whitsunday Adventurer](https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n/2026-07-24) · [Apollo](https://sailing-whitsundays.com/whitsundays/apollo-2d2n) |
+| Wed Sep 9 → Fri Sep 11 | Whitsundays | 🟨 BOOK NEXT | **2D2N sailing** — compare Entice / Entice II vs Whitsunday Adventurer vs Apollo below. | [Entice II](https://sailing-whitsundays.com/whitsundays/entice-ii-2d2n) · [Entice](https://sailing-whitsundays.com/whitsundays/entice-2d2n) · [Whitsunday Adventurer](https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n/2026-07-24) · [Apollo](https://sailing-whitsundays.com/whitsundays/apollo-2d2n) |
+| Fri Sep 11 | Airlie → Sydney | ⚠️ CHANGE FLIGHT | Current JQ841 is 14:45. Because booking is Flex Plus, move to the **later same-day PPP→SYD flight** if choosing a noon/2pm-return boat. No change fee; fare difference may apply. | [Jetstar Manage Booking](https://www.jetstar.com/au/en/manage-booking) · [Whitsunday Coast Airport](https://www.whitsundaycoastairport.com.au/) |
+| Sat Sep 12 | Sydney | 🟨 TBD | A: Blue Mountains + Scenic World. B: Manly Ferry → Manly → Shelly Beach. Optional Sydney Opera House show that night. | [Blue Mountains](https://www.sydney.com/destinations/blue-mountains) · [Scenic World](https://www.scenicworld.com.au/) · [Manly ferry](https://www.sydney.com/destinations/sydney/sydney-city/city-centre/transport/circular-quay-manly-ferry) · [Manly Beach](https://www.sydney.com/destinations/sydney/sydney-north/manly/attractions/manly-beach) · [Shelly Beach](https://www.sydney.com/destinations/sydney/sydney-north/manly/attractions/shelly-beach-manly) · [Opera House What's On](https://www.sydneyoperahouse.com/whats-on) |
+| Sun Sep 13 | Sydney → SFO | ✅ Flight booked | UA870 home. | [Sydney Airport international departures](https://www.sydneyairport.com.au/info-sheet/get-to-your-gate-on-time) |
 
 ---
 
@@ -217,7 +219,7 @@ Booking is **Flex Plus**, so Jetstar permits date/time changes **without a chang
 
 ### Action
 
-Go to **Jetstar Manage Booking** using booking reference **UKV99S** and price the **later Sep 11 PPP→SYD nonstop** before booking Entice/Adventurer. Do not rely on same-day availability even though Flex Plus permits free eligible same-day changes.
+Go to [Jetstar Manage Booking](https://www.jetstar.com/au/en/manage-booking) and price the **later Sep 11 PPP→SYD nonstop** before booking Entice/Adventurer. The booking reference is intentionally not stored in this public document. Do not rely on same-day availability even though Flex Plus permits free eligible same-day changes.
 
 ---
 
