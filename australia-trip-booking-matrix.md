@@ -6,177 +6,134 @@ This is the working booking sheet for the Sep 2026 Australia trip. The original 
 
 > **Security note:** airline booking references and other private reservation identifiers are intentionally omitted from this public document.
 
+## Current decision state
+
+- ✅ **Sep 11 flight changed and confirmed:** JQ839, PPP 18:50 → SYD 21:15.
+- 🔒 **Sep 8 locked:** [Bait Reef / Explore Group](https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/) full-day Outer GBR snorkel.
+- 🔒 **Sep 9 morning locked:** [15,000 ft Skydive Airlie Beach](https://www.skydive.com.au/locations/airlie-beach/); book the earliest practical morning slot.
+- 🟨 **Only major Whitsundays decision left:** choose and book the Sep 9–11 2D2N sailing boat.
+  - **First choice:** Entice / Entice II private triple — the operator describes them as identical sister catamarans, so book whichever has the private triple on Sep 9.
+  - **Fallback:** Whitsunday Adventurer private triple.
+  - **Apollo dropped from the active shortlist:** shared/open-plan sleeping and 27 guests are no longer worth the comfort tradeoff now that the later flight removes the timing constraint.
+
 ## Current locked structure
 
 | Date | Location | Status | Summary | Plan |
 |---|---|---|---|---|
 | Sat Sep 5 | Sydney | 🔒 Locked | <ul><li><strong>Distance:</strong> ~2.5–3.5 mi walking</li><li><strong>Route:</strong> The Rocks → Circular Quay → Opera House → Botanic Garden → Mrs Macquarie's Chair</li><li><strong>Core duration:</strong> ~2–3 hr walking / sightseeing</li><li><strong>Total:</strong> ~4–6 hr with stops</li><li><strong>Optional:</strong> Bridge / Pylon adds ~1–1.5 hr</li></ul> | <ul><li><a href="https://www.sydney.com/destinations/sydney/sydney-city/the-rocks">The Rocks</a></li><li>Circular Quay</li><li><a href="https://www.sydneyoperahouse.com/">Sydney Opera House</a></li><li><a href="https://www.botanicgardens.org.au/royal-botanic-garden-sydney">Royal Botanic Garden</a></li><li>Mrs Macquarie's Chair</li><li><em>Optional:</em> <a href="https://pylonlookout.com.au/">Harbour Bridge walk / Pylon Lookout</a></li></ul> |
 | Sun Sep 6 | Sydney | 🔒 Locked | <ul><li><strong>Distance:</strong> ~3.7 mi / 6 km coastal walk</li><li><strong>Route:</strong> Bondi → Tamarama → Bronte → Clovelly / Gordon's Bay → Coogee</li><li><strong>Moving time:</strong> ~2–3 hr</li><li><strong>Total:</strong> ~4–6 hr with beach / food stops</li><li><strong>Optional:</strong> Icebergs adds ~45–60 min</li></ul> | <ul><li><a href="https://www.sydney.com/things-to-do/nature-and-parks/walks/bondi-to-coogee-coastal-walk">Bondi Beach → Tamarama → Bronte → Clovelly / Gordon's Bay → Coogee</a></li><li><em>Optional:</em> <a href="https://icebergs.com.au/swimming-pool/">Bondi Icebergs</a></li><li><em>Optional:</em> <a href="https://www.sydney.com/destinations/sydney/sydney-east/coogee">Coogee lunch / drinks</a></li><li><em>Optional:</em> <a href="https://www.sydney.com/destinations/sydney/sydney-city/surry-hills">Surry Hills dinner</a></li></ul> |
-| Mon Sep 7 | Sydney → Airlie | ✅ Flight booked | <ul><li><strong>Type:</strong> Travel / settle-in day</li><li><strong>Flight:</strong> 2h35</li><li><strong>PPP → Airlie:</strong> ~40–45 min</li><li><strong>Door-to-door:</strong> ~4–5 hr including airport time</li><li><strong>Evening:</strong> Flexible after mid/late-afternoon arrival</li></ul> | <ul><li>JQ840: SYD 11:30 → PPP 14:05</li><li><a href="https://www.whitsundaycoastairport.com.au/">Whitsunday Coast Airport</a> → Airlie transfer</li><li>Check in / settle in</li><li><em>Optional:</em> <a href="https://www.tourismwhitsundays.com.au/products/airlie-beach-lagoon">Airlie Beach Lagoon / waterfront</a></li><li><em>Optional:</em> <a href="https://www.tourismwhitsundays.com.au/mainland/airlie-beach">easy dinner / light nightlife</a></li></ul> |
-| Tue Sep 8 | Whitsundays | 🟨 Near-lock | <ul><li><strong>Type:</strong> Full-day outer Great Barrier Reef excursion</li><li><strong>Total:</strong> ~10–11 hr</li><li><strong>Bait Reef:</strong> ~3.5 hr at reef across 2 snorkel sites</li><li><strong>Hardy Reef:</strong> Pontoon-based reef day with snorkel + observatory + semi-sub</li><li><strong>Evening:</strong> Optional nightlife after return</li></ul> | <ul><li><strong>Outer Great Barrier Reef day</strong><ul><li><strong>Option 1 — preferred:</strong> <a href="https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/">Bait Reef / Explore Group</a></li><li><strong>Option 2 — comfort alternative:</strong> <a href="https://www.cruisewhitsundays.com/experiences/great-barrier-reef-full-day-adventure/">Hardy Reef / Reefworld</a></li></ul></li><li><em>Optional afters:</em> <a href="https://www.airliebeachlive.com/venues/mama-africa">Mama Africa</a></li></ul> |
-| Wed Sep 9 | Airlie → Whitsundays | 🟨 BOOK NEXT | <ul><li><strong>Type:</strong> Morning logistics + sailing departure</li><li><strong>Optional skydive:</strong> Budget ~2–4 hr including weather / operational buffer</li><li><strong>Luggage / checkout / lunch:</strong> ~1–2 hr</li><li><strong>Sailing departure:</strong> ~13:30–16:00 depending boat</li><li><strong>Night:</strong> First night anchored offshore</li></ul> | <ul><li><em>Optional:</em> <a href="https://www.skydive.com.au/locations/airlie-beach/">early-morning skydive</a></li><li>Check out of Airlie lodging</li><li>Pack 2-night soft bags</li><li><a href="https://sailing-whitsundays.com/whitsundays/airlie-beach-bag-storage">Store airline suitcases in Airlie</a></li><li>Lunch / supplies / BYO drinks</li><li><strong>Board selected 2D2N sailing trip</strong><ul><li><strong>Option 1 — current leader:</strong> <a href="https://sailing-whitsundays.com/whitsundays/entice-ii-2d2n">Entice II</a></li><li><strong>Option 1B — sister boat:</strong> <a href="https://sailing-whitsundays.com/whitsundays/entice-2d2n">Entice</a></li><li><strong>Option 2 — comfort alternative:</strong> <a href="https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n/2026-07-24">Whitsunday Adventurer</a></li><li><strong>Option 3 — adults-only / value:</strong> <a href="https://sailing-whitsundays.com/whitsundays/apollo-2d2n">Apollo</a></li></ul></li></ul> |
-| Thu Sep 10 | Whitsundays | 🟨 Sailing | <ul><li><strong>Type:</strong> Full day offshore</li><li><strong>Active window:</strong> ~10–12 hr without commuting back to Airlie</li><li><strong>Core:</strong> Whitehaven / Hill Inlet + island sailing + fringing-reef snorkeling</li><li><strong>Route:</strong> Flexible based on weather, tides, and selected boat</li><li><strong>Night:</strong> Second night anchored offshore</li></ul> | <ul><li><strong>2D2N sailing — full day offshore</strong></li><li>Whitehaven Beach</li><li>Hill Inlet</li><li>Whitsunday island / fringing-reef snorkeling</li><li>Actual sailing + island anchorages</li><li>Activities depend on selected boat / weather / tides</li></ul> |
-| Fri Sep 11 | Whitsundays → Sydney | ⚠️ CHANGE FLIGHT | <ul><li><strong>Boat return:</strong> ~10:30 / 12:00 / 14:00 depending selection</li><li><strong>Luggage pickup:</strong> ~30–60 min</li><li><strong>Airlie → PPP:</strong> ~35–45 min</li><li><strong>Planned flight:</strong> JQ839, 18:50 → 21:15</li><li><strong>Evening:</strong> Sydney hotel + optional late food / drinks</li></ul> | <ul><li>Sailing trip returns to Airlie</li><li>Retrieve checked suitcases</li><li>Prebook transfer / taxi to <a href="https://www.whitsundaycoastairport.com.au/">PPP</a></li><li><strong>Planned flight change:</strong> <a href="https://www.jetstar.com/au/en/manage-booking">JQ839 PPP 18:50 → SYD 21:15</a></li><li>Arrive Sydney / check in</li><li><em>Optional:</em> late dinner / drinks if energy permits</li></ul> |
+| Mon Sep 7 | Sydney → Airlie | ✅ Flight booked | <ul><li><strong>Type:</strong> Travel / settle-in day</li><li><strong>Flight:</strong> 2h35</li><li><strong>PPP → Airlie:</strong> ~40–45 min</li><li><strong>Door-to-door:</strong> ~4–5 hr including airport time</li><li><strong>Evening:</strong> Flexible after mid/late-afternoon arrival</li></ul> | <ul><li>JQ840: SYD 11:30 → PPP 14:05</li><li><a href="https://www.whitsundaycoastairport.com.au/">Whitsunday Coast Airport</a> → Airlie transfer</li><li>Check in / settle in</li><li><em>Optional:</em> <a href="https://www.tourismwhitsundays.com.au/products/airlie-beach-lagoon">Airlie Beach Lagoon / waterfront</a></li><li><em>Optional:</em> easy dinner / light nightlife</li></ul> |
+| Tue Sep 8 | Whitsundays | 🔒 Locked — BOOK | <ul><li><strong>Type:</strong> Full-day Outer Great Barrier Reef snorkel</li><li><strong>Total:</strong> ~10h45</li><li><strong>Depart:</strong> Shute Harbour ~06:45</li><li><strong>At Bait Reef:</strong> ~3.5 hr across 2 snorkel locations</li><li><strong>Return:</strong> roughly late afternoon / early evening</li><li><strong>Why it fits:</strong> outer reef is distinct from the island/fringing reefs on the 2D2N sail</li></ul> | <ul><li><strong><a href="https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/">Bait Reef / Explore Group</a> — LOCKED</strong></li><li>Guided snorkeling at two outer-reef sites</li><li>Lunch + snorkel gear included</li><li><em>Optional afters:</em> <a href="https://www.airliebeachlive.com/venues/mama-africa">Mama Africa</a>, but keep it relatively light because of the early skydive next morning</li></ul> |
+| Wed Sep 9 | Airlie → Whitsundays | 🟨 BOOK SKYDIVE + SAIL | <ul><li><strong>Morning:</strong> locked 15,000 ft skydive</li><li><strong>Skydive buffer:</strong> allow up to ~4 hr for check-in / weather / operations</li><li><strong>Midday:</strong> hotel checkout + luggage storage + lunch / supplies</li><li><strong>Sailing departure:</strong> Entice ~16:00; Adventurer ~15:00</li><li><strong>Night:</strong> first night anchored offshore</li></ul> | <ul><li><strong><a href="https://www.skydive.com.au/locations/airlie-beach/">15,000 ft Skydive Airlie Beach</a> — LOCKED</strong><ul><li>Book earliest practical morning slot</li><li>Up to ~60 sec freefall</li><li>Current base fare: from A$369 pp before optional media / weight surcharges</li></ul></li><li>Check out of Airlie lodging</li><li>Pack 2-night soft bags</li><li><a href="https://sailing-whitsundays.com/whitsundays/airlie-beach-bag-storage">Store airline suitcases in Airlie</a></li><li>Lunch / supplies / BYO drinks</li><li><strong>Board selected 2D2N sailing trip</strong><ul><li><strong>Finalist 1 — preferred:</strong> <a href="https://sailing-whitsundays.com/whitsundays/entice-ii-2d2n">Entice II</a> / <a href="https://sailing-whitsundays.com/whitsundays/entice-2d2n">Entice</a> private triple</li><li><strong>Finalist 2 — comfort fallback:</strong> <a href="https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n">Whitsunday Adventurer</a> private triple</li></ul></li></ul> |
+| Thu Sep 10 | Whitsundays | 🟨 Sailing | <ul><li><strong>Type:</strong> Full day offshore</li><li><strong>Active window:</strong> ~10–12 hr without commuting back to Airlie</li><li><strong>Core:</strong> Whitehaven / Hill Inlet + island sailing + fringing-reef snorkeling</li><li><strong>Route:</strong> flexible based on weather, tides, and selected boat</li><li><strong>Night:</strong> second night anchored offshore</li></ul> | <ul><li><strong>2D2N sailing — full day offshore</strong></li><li>Whitehaven Beach</li><li>Hill Inlet</li><li>Whitsunday island / fringing-reef snorkeling</li><li>Actual sailing + secluded anchorages</li><li>Water activities depending on selected vessel</li></ul> |
+| Fri Sep 11 | Whitsundays → Sydney | ✅ Flight changed | <ul><li><strong>Boat return:</strong> Entice ~14:00 / Adventurer ~12:00</li><li><strong>Luggage pickup:</strong> ~30–60 min</li><li><strong>Airlie → PPP:</strong> ~35–45 min</li><li><strong>Confirmed flight:</strong> JQ839, 18:50 → 21:15</li><li><strong>Buffer:</strong> ~4h50 after an Entice 14:00 return; larger with Adventurer</li></ul> | <ul><li>Sailing trip returns to Airlie</li><li>Retrieve checked suitcases</li><li>Prebook transfer / taxi to <a href="https://www.whitsundaycoastairport.com.au/">PPP</a></li><li><strong>JQ839 PPP 18:50 → SYD 21:15 — CONFIRMED</strong></li><li>Arrive Sydney / check in</li><li><em>Optional:</em> late food / drinks if energy permits</li></ul> |
 | Sat Sep 12 | Sydney | 🟨 TBD | <ul><li><strong>Option A — Blue Mountains:</strong> ~10–12 hr total</li><li><strong>Transit:</strong> ~2 hr train each way</li><li><strong>Scenic World / walking:</strong> ~3–5 hr</li><li><strong>Option B — Manly:</strong> ~5–7 hr total</li><li><strong>Ferry:</strong> ~30 min each way + ~2–4 hr Manly / Shelly</li><li><strong>Optional:</strong> Opera House show adds ~2–3 hr at night</li></ul> | <ul><li><strong>Choose daytime plan</strong><ul><li><strong>Option A:</strong> <a href="https://www.sydney.com/destinations/blue-mountains">Blue Mountains</a> + <a href="https://www.scenicworld.com.au/">Scenic World</a></li><li><strong>Option B:</strong> <a href="https://www.sydney.com/destinations/sydney/sydney-city/city-centre/transport/circular-quay-manly-ferry">Manly Ferry</a> → <a href="https://www.sydney.com/destinations/sydney/sydney-north/manly/attractions/manly-beach">Manly Beach</a> → <a href="https://www.sydney.com/destinations/sydney/sydney-north/manly/attractions/shelly-beach-manly">Shelly Beach</a></li></ul></li><li><em>Optional:</em> <a href="https://www.sydneyoperahouse.com/whats-on">Sydney Opera House show at night</a></li></ul> |
 | Sun Sep 13 | Sydney → SFO | ✅ Flight booked | <ul><li><strong>Type:</strong> Departure morning</li><li><strong>Hotel → SYD:</strong> ~20–40 min</li><li><strong>Airport buffer:</strong> ~3 hr international</li><li><strong>Flight:</strong> ~13h30</li></ul> | <ul><li>Early hotel checkout</li><li>Transfer to <a href="https://www.sydneyairport.com.au/info-sheet/get-to-your-gate-on-time">SYD international terminal</a></li><li>UA870 home</li></ul> |
 
 ---
 
-# Sep 8 — Outer Great Barrier Reef
+# Sep 8 — Bait Reef Outer GBR — LOCKED
 
-If we choose overnight sailing, **do not book Southern Lights**. Every sailing option below already covers Whitehaven + Hill Inlet + Whitsunday island/fringing-reef snorkeling, so Sep 8 should cover the actual **outer GBR** instead.
+[Official Bait Reef / Explore Group booking page](https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/)
 
-| Option | Link | Price | Schedule | What it is | Rating for our itinerary |
-|---|---|---:|---|---|---:|
-| **Bait Reef — Explore Group** | [Official page / booking](https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/) | **A$330 pp / A$990 group** | Daily, departs Shute Harbour 6:45am; ~10h45; ~3.5h at reef | Two dedicated snorkel locations at Bait Reef, guides in the water, smaller/purpose-built snorkel vessel. Best if all 3 are comfortable swimmers and we want maximum reef time. | **9.4/10** |
-| **Hardy Reef — Cruise Whitsundays** | [Official page / booking](https://www.cruisewhitsundays.com/experiences/great-barrier-reef-full-day-adventure/) | **From A$295 pp / A$885 group** | Full day from Port of Airlie | Reefworld pontoon, snorkel, underwater observatory, semi-sub, buffet lunch. More varied and lower-effort than Bait. | **9.1/10** |
-
-**Current lean:** Bait Reef if everyone is happy spending the day actively snorkeling; Hardy Reef if we want a more varied / comfortable day before 2 nights sailing.
+- **Price:** A$330 pp / **A$990 group**.
+- **Duration:** ~10h45; departs Shute Harbour ~06:45.
+- **Reef time:** ~3.5 hr at two Bait Reef snorkel locations.
+- **Included:** guided snorkeling / in-water support, lunch, morning + afternoon tea, wetsuit/stinger suit and snorkel equipment.
+- **Reason locked:** it gives us the actual outer Great Barrier Reef without pre-playing Whitehaven / Hill Inlet, which the 2D2N sailing trip already covers.
 
 ---
 
-# Sep 9–11 — 2D2N sailing: the three real choices
+# Sep 9 morning — Airlie Beach skydive — LOCKED
 
-Ratings below are **itinerary-fit ratings for our group**, not internet review scores.
+[Skydive Airlie Beach — official booking page](https://www.skydive.com.au/locations/airlie-beach/)
 
-## 1. Entice / Entice II — current leader
+- **15,000 ft tandem:** from **A$369 pp / A$1,107 group** before optional media / applicable surcharges.
+- **Freefall:** up to ~60 seconds.
+- **Scheduling rule:** book the **earliest practical Sep 9 morning slot**.
+- **Operational buffer:** allow up to ~4 hours so the skydive cannot threaten the afternoon sailing departure.
+- **No Sep 8 scuba:** keeping Bait as snorkeling avoids the 24-hour scuba-before-skydiving restriction.
+
+---
+
+# Sep 9–11 — Sailing decision — FINALIZE NEXT
+
+The sailing choice is now effectively **Entice-family private triple vs Whitsunday Adventurer private triple**. Apollo is no longer on the active shortlist.
+
+## Finalist 1 — Entice / Entice II private triple — preferred
 
 - [Entice II official booking page](https://sailing-whitsundays.com/whitsundays/entice-ii-2d2n)
 - [Entice official booking page](https://sailing-whitsundays.com/whitsundays/entice-2d2n)
 
+The operator describes **Entice and Entice II as identical sister catamarans**, with the same small-group format and essentially the same experience. Do not overthink which sister boat: **book whichever has a private triple available for Sep 9**.
+
 | Factor | Details |
 |---|---|
-| **Price** | **A$759 pp / A$2,277 group** for private triple. Private triple ensuite: A$939 pp / A$2,817 group. |
+| **Price** | **A$759 pp / A$2,277 group** private triple |
 | **Capacity** | **10 guests max** |
-| **Cabin** | **Actual private triple:** double bed + single bunk. |
-| **Age policy** | 6+; not adults-only. |
-| **Published Wed schedule** | **Wed 4:00pm → Fri 2:00pm** |
-| **Friday flight** | **Planned: JQ839 PPP 18:50 → SYD 21:15.** A 2pm boat return leaves a comfortable transfer/check-in buffer. |
-| **Itinerary** | Whitehaven Beach + Hill Inlet; flexible island/bay routing based on weather/tides; fringing-reef snorkeling; actual sailing. |
-| **Extra toys** | SUPs, glass-bottom canoe, sea scooters. |
-| **Food / gear** | Meals, linen, bath towel, wetsuit + snorkel gear included; BYO alcohol. |
-| **Luggage** | **No airline suitcase.** Small soft overnight bag only. Store checked suitcases in Airlie. |
-| **Comfort** | Private room, hot showers, small group. No A/C on Entice II. |
-| **Cancellation** | Free cancellation up to 30 days before departure. |
-| **Itinerary rating** | **9.6/10** |
-| **Headache rating** | **8.5/10 (low-ish headache)** once JQ839 + bag storage are handled. |
+| **Cabin** | Private triple: double + single bunk |
+| **Schedule** | **Wed ~16:00 → Fri ~14:00** |
+| **Friday flight** | Confirmed JQ839 at 18:50 leaves ~4h50 after scheduled return |
+| **Core itinerary** | Whitehaven + Hill Inlet + fringing reefs + secluded bays + actual sailing |
+| **Water toys** | Sea scooters, SUPs, glass-bottom canoe |
+| **Comfort** | Private room, hot showers; smaller/more intimate vessel |
+| **Overall itinerary fit** | **9.7/10** |
 
-### Why it leads
+### Why this is still the preferred product
 
-Best combination of **small group + actual private room + island exploration + sailing + water activities**. Since Sep 8 covers the outer reef, this trip can focus on Whitehaven / Hill Inlet / islands rather than trying to duplicate the reef day.
+- Only **10 guests**, which matters more than an adults-only label for the experience quality we want.
+- Actual private triple for the three of us.
+- Best activity mix on top of the locked Bait Reef + skydive: sailing, Whitehaven, Hill Inlet, island reefs, sea scooters, SUPs and clear canoe.
+- Bait already handles the heavy reef day, so this boat can function as the **islands / sailing / anchorages** half of the Whitsundays experience.
 
-### Cost with Sep 8 Bait Reef
+### Locked-package cost with Entice
 
 - Bait Reef: A$990 group
-- Entice private triple: A$2,277 group
-- **Core activities: A$3,267 group = A$1,089 pp**
-- Plus luggage storage / flight fare difference / optional skydive.
+- 15,000 ft skydive: A$1,107 group
+- Entice-family private triple: A$2,277 group
+- **Core Whitsundays activities: A$4,374 group = A$1,458 pp**
+- Plus luggage storage, airport transfers and any skydive media.
 
 ---
 
-## 2. Whitsunday Adventurer — best boat / comfort
+## Finalist 2 — Whitsunday Adventurer private triple — comfort fallback
 
-[Official booking page](https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n/2026-07-24)
+[Whitsunday Adventurer official booking page](https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n)
 
 | Factor | Details |
 |---|---|
-| **Price** | **A$830 pp / A$2,490 group** private triple. |
+| **Price** | **A$830 pp / A$2,490 group** private triple |
 | **Capacity** | **12 guests max** |
-| **Cabin** | **Actual private triple:** double bed + single bunk. |
-| **Age policy** | 6+; not adults-only. |
-| **Published Wed schedule** | **Wed 3:00pm → Fri 12:00pm** |
-| **Friday flight** | **Planned: JQ839 PPP 18:50 → SYD 21:15.** Noon return gives a very large buffer. |
-| **Itinerary** | Whitehaven + Hill Inlet + multiple Whitsunday snorkel locations; sailing between islands. |
-| **Extra toys / comfort** | SUPs, heated foredeck spa, more deck/lounging space, Wi-Fi, quality linen/towels. |
-| **Luggage** | **No airline suitcase.** Operator asks for a very small soft bag with no wheels/zippers. Checked luggage goes into Airlie storage. |
-| **Food / gear** | Meals, linen, bath towels, stinger suit + snorkel gear included; BYO alcohol. |
-| **Cancellation** | Free cancellation up to 30 days before departure. |
-| **Itinerary rating** | **9.2/10** |
-| **Boat / comfort rating** | **9.5/10** |
-| **Headache rating** | **8/10** — easy flight timing with JQ839; stricter overnight-bag rule. |
+| **Cabin** | Private triple: double + single bunk |
+| **Schedule** | **Wed ~15:00 → Fri ~12:00** |
+| **Friday flight** | Confirmed JQ839 at 18:50 leaves a very large buffer |
+| **Core itinerary** | Whitehaven + Hill Inlet + multiple fringing-reef sites + sailing |
+| **Extras** | SUPs, heated foredeck spa, Wi-Fi, underwater blue lights |
+| **Comfort** | More spacious catamaran / nicer onboard lounging; no A/C, fans in rooms |
+| **Overall itinerary fit** | **9.4/10** |
 
-### Why choose it over Entice
+### When to choose Adventurer
 
-Choose Adventurer if we care more about **having a nicer place to live for 2 nights** than squeezing every possible activity out of the boat. Only A$213 more than Entice for the whole group.
+Choose it if the **Entice-family private triple is unavailable**, or if the group explicitly values a larger/spacier boat and heated spa over the smaller 10-person format and extra water toys.
 
-### Cost with Sep 8 Bait Reef
+### Locked-package cost with Adventurer
 
 - Bait Reef: A$990 group
-- Adventurer triple: A$2,490 group
-- **Core activities: A$3,480 group = A$1,160 pp**
-- Plus luggage storage / flight fare difference / optional skydive.
+- 15,000 ft skydive: A$1,107 group
+- Adventurer private triple: A$2,490 group
+- **Core Whitsundays activities: A$4,587 group = A$1,529 pp**
+- Plus luggage storage, airport transfers and any skydive media.
 
 ---
 
-## 3. Apollo — cheapest / adults-only / most social
+# Sailing verdict
 
-[Official booking page](https://sailing-whitsundays.com/whitsundays/apollo-2d2n)
+| Rank | Boat | Full locked-package cost pp | Private triple | Guests | Experience | Comfort | Verdict |
+|---:|---|---:|---:|---:|---:|---:|---|
+| **1** | **Entice / Entice II** | **A$1,458** | ✅ | **10** | **9.7** | 8.8 | **Book first** |
+| **2** | **Whitsunday Adventurer** | **A$1,529** | ✅ | 12 | 9.3 | **9.5** | **Fallback** |
 
-| Factor | Details |
-|---|---|
-| **Price** | **A$579 pp / A$1,737 group** |
-| **Capacity** | **27 guests** |
-| **Cabin** | **No private triple.** Open-plan shared accommodation / bunks. |
-| **Age policy** | **18+** (recommended 18–35). |
-| **Schedule** | **Wed 1:30pm → Fri 10:30am** |
-| **Friday flight** | **Planned: JQ839 PPP 18:50 → SYD 21:15.** This gives an extremely relaxed Friday buffer. |
-| **Itinerary** | Whitehaven + Hill Inlet + fringing-reef snorkeling + authentic maxi-yacht sailing; secluded bays. |
-| **Vibe** | Younger / social / group-of-friends-oriented, but not necessarily a booze cruise. |
-| **Bathrooms** | 2 shared bathrooms with toilets + cold-water showers. |
-| **Luggage** | Very small soft overnight bag **without zippers**; airline suitcases must stay in Airlie. |
-| **Food / gear** | Meals, linen, wetsuit + snorkel gear included; BYO alcohol. |
-| **Cancellation** | Within 21 days, cancellations/no-shows forfeit ticket. |
-| **Itinerary rating** | **9.3/10** |
-| **Comfort rating** | **6.5/10** |
-| **Headache rating** | **8/10** — very easy Friday timing with JQ839, but shared sleeping + more people. |
-
-### Why choose it
-
-If we want to spend **~A$540–750 less as a group** and are fine with shared bunks, Apollo is arguably the best value. It is also the only one of the three that is strictly 18+.
-
-### Cost with Sep 8 Bait Reef
-
-- Bait Reef: A$990 group
-- Apollo: A$1,737 group
-- **Core activities: A$2,727 group = A$909 pp**
-- Plus luggage storage / optional skydive.
-
----
-
-# Side-by-side decision table
-
-| Rank | Boat | 3-person core cost with Bait | Private triple? | Guests | Adults-only? | Wed→Fri schedule | Experience | Comfort | Low duplication | Overall |
-|---:|---|---:|---:|---:|---:|---|---:|---:|---:|---:|
-| **1** | **Entice / Entice II** | **A$3,267** | ✅ | **10** | ❌ | 4pm → 2pm | **9.6** | 8.8 | **9.7** | **9.6/10** |
-| **2** | **Whitsunday Adventurer** | **A$3,480** | ✅ | **12** | ❌ | 3pm → noon | 9.2 | **9.5** | **9.6** | **9.4/10** |
-| **3** | **Apollo** | **A$2,727** | ❌ | 27 | ✅ | 1:30pm → 10:30am | 9.3 | 6.5 | 9.5 | **9.1/10** |
-
-**Current recommendation:** try to book **Entice / Entice II private triple** first. If unavailable, **Whitsunday Adventurer private triple** is an excellent fallback. Pick **Apollo** if cost / adults-only social vibe matters more than private accommodation.
-
----
-
-# Optional Sep 9 morning — skydive
-
-[Skydive Airlie Beach — official booking page](https://www.skydive.com.au/locations/airlie-beach/)
-
-- Up to **15,000 ft**
-- From **A$369 pp / A$1,107 group**
-- Up to ~60 sec freefall
-- Operates 7 days
-- **Only book an early morning slot** before the sailing.
-- Treat this as optional because weather/aircraft delays can add several hours.
-
-### A/B plan
-
-**A — lower headache**
-
-> Sep 8 Outer GBR → Sep 9 relaxed morning / bags → 2D2N sailing
-
-**B — maximum experience**
-
-> Sep 8 Outer GBR → Sep 9 early skydive → bags → 2D2N sailing
-
-The skydive adds essentially **zero experience duplication**; it just increases schedule risk and cost.
+**Decision rule:** check Sep 9 private-triple inventory for **Entice II and Entice**. If either has it, book it. If neither does, book **Whitsunday Adventurer**. There is no longer a strong reason to carry Apollo as a third branch.
 
 ---
 
@@ -184,60 +141,42 @@ The skydive adds essentially **zero experience duplication**; it just increases 
 
 We expect **3 checked suitcases + 3 backpacks**.
 
-All three overnight sailing options want only **small soft overnight bags onboard**. Plan on leaving the checked suitcases in Airlie.
+Both sailing finalists want only small soft overnight bags onboard. Plan on leaving the airline suitcases in Airlie.
 
 [Airlie Beach Bag Storage — The Travel Shop](https://sailing-whitsundays.com/whitsundays/airlie-beach-bag-storage)
 
-- **344 Shute Harbour Road, Airlie Beach**
-- Open **10am–6pm daily**
-- Secure/camera-monitored room
-- Published multi-day rate is currently around **A$10 per item for up to 3 nights** on the booking page; budget **A$30–60 total** for our group and verify at drop-off.
-
 ### Wed Sep 9
 
-1. Check out of Airlie hotel.
-2. Pack 2 nights of clothes / swim stuff into approved small soft bags.
-3. Leave 3 airline suitcases at Travel Shop.
-4. Optional early skydive if doing Plan B.
+1. Early skydive.
+2. Return to hotel / finish checkout.
+3. Pack 2 nights of clothes / swim gear into small soft bags.
+4. Leave the 3 airline suitcases at luggage storage.
 5. Lunch / supplies / BYO drinks.
-6. Walk/taxi to Coral Sea Marina and board sailing trip.
+6. Board the selected sailing trip at Coral Sea Marina.
 
 ### Fri Sep 11
 
-1. Boat returns.
-2. Retrieve suitcases from Travel Shop.
+1. Boat returns (~12:00 Adventurer / ~14:00 Entice family).
+2. Retrieve checked suitcases.
 3. Prebook transfer/taxi to PPP.
-4. Fly **JQ839 PPP 18:50 → SYD 21:15** once the planned flight change is confirmed.
-
----
-
-# Jetstar action
-
-Current booking: **JQ841 PPP → SYD, Fri Sep 11, 2:45pm → 5:10pm**.
-
-Booking is **Flex Plus**, so Jetstar permits date/time changes **without a change fee**; a fare difference may apply.
-
-### Planned change
-
-Go to [Jetstar Manage Booking](https://www.jetstar.com/au/en/manage-booking) and change the Sep 11 return to **JQ839 PPP 18:50 → SYD 21:15**. The booking reference is intentionally not stored in this public document.
+4. Fly **confirmed JQ839 PPP 18:50 → SYD 21:15**.
 
 ---
 
 # Booking order — do this now
 
-1. **Change Jetstar Sep 11 return to JQ839, PPP 18:50 → SYD 21:15.**
-2. **Check Entice / Entice II private triple for Sep 9 departure.**
-3. If unavailable, **check Whitsunday Adventurer private triple.**
-4. If private cabins are gone or not worth the premium, **book Apollo.**
-5. Once sailing is secured, **book Sep 8 Bait Reef** (or Hardy Reef).
-6. Decide on **Sep 9 early skydive** only after sailing departure time is locked.
-7. Book **Airlie hotel only for Sep 7–9** if doing a Wed–Fri overnight sail — no need to pay for Sep 9/10 hotel nights.
-8. Prebook **Fri Sep 11 boat → luggage → PPP transfer** after final boat/flight are locked.
+1. **Check and book Entice II / Entice private triple for Sep 9.**
+2. If neither sister boat has the private triple, **book Whitsunday Adventurer private triple**.
+3. **Book Sep 8 Bait Reef** — itinerary choice is locked.
+4. **Book earliest practical Sep 9 15,000 ft skydive** — itinerary choice is locked.
+5. Book **Airlie lodging Sep 7 check-in → Sep 9 check-out only** for the overnight-sailing architecture.
+6. Arrange luggage storage for Sep 9–11.
+7. Prebook Fri Sep 11 Airlie → PPP transfer once the boat return time is final.
 
 ## Current preferred architecture
 
 > **Sep 7:** arrive Airlie, hotel  
-> **Sep 8:** Bait Reef outer GBR; optional Mama Africa afterward  
-> **Sep 9 AM:** optional early skydive  
-> **Sep 9 PM–Sep 11:** Entice / Entice II private-triple 2D2N sailing  
-> **Sep 11:** retrieve suitcases → PPP → **JQ839 18:50 → 21:15 Sydney**
+> **Sep 8:** 🔒 Bait Reef Outer GBR; optional light afters  
+> **Sep 9 AM:** 🔒 15,000 ft Airlie Beach skydive  
+> **Sep 9 PM–Sep 11:** 🟨 Entice / Entice II private-triple 2D2N sailing; Adventurer if unavailable  
+> **Sep 11:** boat → luggage → PPP → ✅ **JQ839 18:50 → 21:15 Sydney**
