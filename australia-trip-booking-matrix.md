@@ -16,7 +16,7 @@ This is the working booking sheet for the Sep 2026 Australia trip. The original 
 | Tue Sep 8 | Whitsundays | 🟨 Near-lock | <ul><li><strong>Outer Great Barrier Reef day</strong><ul><li><strong>Option 1 — preferred:</strong> <a href="https://www.exploregroup.com.au/airlie-beach/snorkel-great-barrier-reef-shute-harbour/">Bait Reef / Explore Group</a></li><li><strong>Option 2 — comfort alternative:</strong> <a href="https://www.cruisewhitsundays.com/experiences/great-barrier-reef-full-day-adventure/">Hardy Reef / Reefworld</a></li></ul></li><li><em>Optional afters:</em> <a href="https://www.airliebeachlive.com/venues/mama-africa">Mama Africa</a></li></ul> |
 | Wed Sep 9 | Airlie → Whitsundays | 🟨 BOOK NEXT | <ul><li><em>Optional:</em> <a href="https://www.skydive.com.au/locations/airlie-beach/">early-morning skydive</a></li><li>Check out of Airlie lodging</li><li>Pack 2-night soft bags</li><li><a href="https://sailing-whitsundays.com/whitsundays/airlie-beach-bag-storage">Store airline suitcases in Airlie</a></li><li>Lunch / supplies / BYO drinks</li><li><strong>Board selected 2D2N sailing trip</strong><ul><li><strong>Option 1 — current leader:</strong> <a href="https://sailing-whitsundays.com/whitsundays/entice-ii-2d2n">Entice II</a></li><li><strong>Option 1B — sister boat:</strong> <a href="https://sailing-whitsundays.com/whitsundays/entice-2d2n">Entice</a></li><li><strong>Option 2 — comfort alternative:</strong> <a href="https://sailing-whitsundays.com/whitsundays/whitsunday-adventurer-2d2n/2026-07-24">Whitsunday Adventurer</a></li><li><strong>Option 3 — adults-only / value:</strong> <a href="https://sailing-whitsundays.com/whitsundays/apollo-2d2n">Apollo</a></li></ul></li></ul> |
 | Thu Sep 10 | Whitsundays | 🟨 Sailing | <ul><li><strong>2D2N sailing — full day offshore</strong></li><li>Whitehaven Beach</li><li>Hill Inlet</li><li>Whitsunday island / fringing-reef snorkeling</li><li>Actual sailing + island anchorages</li><li>Activities depend on selected boat / weather / tides</li></ul> |
-| Fri Sep 11 | Whitsundays → Sydney | ⚠️ CHANGE FLIGHT | <ul><li>Sailing trip returns to Airlie</li><li>Retrieve checked suitcases</li><li>Prebook transfer / taxi to <a href="https://www.whitsundaycoastairport.com.au/">PPP</a></li><li><strong><a href="https://www.jetstar.com/au/en/manage-booking">Change Jetstar to later same-day PPP → SYD flight</a></strong> if using noon / 2pm-return boat</li><li>Arrive Sydney / check in</li><li><em>Optional:</em> dinner / nightlife</li></ul> |
+| Fri Sep 11 | Whitsundays → Sydney | ⚠️ CHANGE FLIGHT | <ul><li>Sailing trip returns to Airlie</li><li>Retrieve checked suitcases</li><li>Prebook transfer / taxi to <a href="https://www.whitsundaycoastairport.com.au/">PPP</a></li><li><strong>Planned flight change:</strong> <a href="https://www.jetstar.com/au/en/manage-booking">JQ839 PPP 18:50 → SYD 21:15</a></li><li>Arrive Sydney / check in</li><li><em>Optional:</em> late dinner / drinks if energy permits</li></ul> |
 | Sat Sep 12 | Sydney | 🟨 TBD | <ul><li><strong>Choose daytime plan</strong><ul><li><strong>Option A:</strong> <a href="https://www.sydney.com/destinations/blue-mountains">Blue Mountains</a> + <a href="https://www.scenicworld.com.au/">Scenic World</a></li><li><strong>Option B:</strong> <a href="https://www.sydney.com/destinations/sydney/sydney-city/city-centre/transport/circular-quay-manly-ferry">Manly Ferry</a> → <a href="https://www.sydney.com/destinations/sydney/sydney-north/manly/attractions/manly-beach">Manly Beach</a> → <a href="https://www.sydney.com/destinations/sydney/sydney-north/manly/attractions/shelly-beach-manly">Shelly Beach</a></li></ul></li><li><em>Optional:</em> <a href="https://www.sydneyoperahouse.com/whats-on">Sydney Opera House show at night</a></li></ul> |
 | Sun Sep 13 | Sydney → SFO | ✅ Flight booked | <ul><li>Early hotel checkout</li><li>Transfer to <a href="https://www.sydneyairport.com.au/info-sheet/get-to-your-gate-on-time">SYD international terminal</a></li><li>UA870 home</li></ul> |
 
@@ -51,7 +51,7 @@ Ratings below are **itinerary-fit ratings for our group**, not internet review s
 | **Cabin** | **Actual private triple:** double bed + single bunk. |
 | **Age policy** | 6+; not adults-only. |
 | **Published Wed schedule** | **Wed 4:00pm → Fri 2:00pm** |
-| **Friday flight** | **Must move JQ841 to later same-day flight.** 2pm return is incompatible with 2:45pm flight. |
+| **Friday flight** | **Planned: JQ839 PPP 18:50 → SYD 21:15.** A 2pm boat return leaves a comfortable transfer/check-in buffer. |
 | **Itinerary** | Whitehaven Beach + Hill Inlet; flexible island/bay routing based on weather/tides; fringing-reef snorkeling; actual sailing. |
 | **Extra toys** | SUPs, glass-bottom canoe, sea scooters. |
 | **Food / gear** | Meals, linen, bath towel, wetsuit + snorkel gear included; BYO alcohol. |
@@ -59,7 +59,7 @@ Ratings below are **itinerary-fit ratings for our group**, not internet review s
 | **Comfort** | Private room, hot showers, small group. No A/C on Entice II. |
 | **Cancellation** | Free cancellation up to 30 days before departure. |
 | **Itinerary rating** | **9.6/10** |
-| **Headache rating** | **8.5/10 (low-ish headache)** once later flight + bag storage are handled. |
+| **Headache rating** | **8.5/10 (low-ish headache)** once JQ839 + bag storage are handled. |
 
 ### Why it leads
 
@@ -85,7 +85,7 @@ Best combination of **small group + actual private room + island exploration + s
 | **Cabin** | **Actual private triple:** double bed + single bunk. |
 | **Age policy** | 6+; not adults-only. |
 | **Published Wed schedule** | **Wed 3:00pm → Fri 12:00pm** |
-| **Friday flight** | Current 2:45pm flight is technically tight; **move to later same-day flight** and remove the issue. |
+| **Friday flight** | **Planned: JQ839 PPP 18:50 → SYD 21:15.** Noon return gives a very large buffer. |
 | **Itinerary** | Whitehaven + Hill Inlet + multiple Whitsunday snorkel locations; sailing between islands. |
 | **Extra toys / comfort** | SUPs, heated foredeck spa, more deck/lounging space, Wi-Fi, quality linen/towels. |
 | **Luggage** | **No airline suitcase.** Operator asks for a very small soft bag with no wheels/zippers. Checked luggage goes into Airlie storage. |
@@ -93,7 +93,7 @@ Best combination of **small group + actual private room + island exploration + s
 | **Cancellation** | Free cancellation up to 30 days before departure. |
 | **Itinerary rating** | **9.2/10** |
 | **Boat / comfort rating** | **9.5/10** |
-| **Headache rating** | **8/10** — easiest onboard, but stricter overnight-bag rule. |
+| **Headache rating** | **8/10** — easy flight timing with JQ839; stricter overnight-bag rule. |
 
 ### Why choose it over Entice
 
@@ -119,7 +119,7 @@ Choose Adventurer if we care more about **having a nicer place to live for 2 nig
 | **Cabin** | **No private triple.** Open-plan shared accommodation / bunks. |
 | **Age policy** | **18+** (recommended 18–35). |
 | **Schedule** | **Wed 1:30pm → Fri 10:30am** |
-| **Friday flight** | Can make existing 2:45pm flight with a prebooked transfer, but moving later still reduces stress. |
+| **Friday flight** | **Planned: JQ839 PPP 18:50 → SYD 21:15.** This gives an extremely relaxed Friday buffer. |
 | **Itinerary** | Whitehaven + Hill Inlet + fringing-reef snorkeling + authentic maxi-yacht sailing; secluded bays. |
 | **Vibe** | Younger / social / group-of-friends-oriented, but not necessarily a booze cruise. |
 | **Bathrooms** | 2 shared bathrooms with toilets + cold-water showers. |
@@ -128,7 +128,7 @@ Choose Adventurer if we care more about **having a nicer place to live for 2 nig
 | **Cancellation** | Within 21 days, cancellations/no-shows forfeit ticket. |
 | **Itinerary rating** | **9.3/10** |
 | **Comfort rating** | **6.5/10** |
-| **Headache rating** | **7.5/10** — easy flight timing, but shared sleeping + more people. |
+| **Headache rating** | **8/10** — very easy Friday timing with JQ839, but shared sleeping + more people. |
 
 ### Why choose it
 
@@ -207,7 +207,7 @@ All three overnight sailing options want only **small soft overnight bags onboar
 1. Boat returns.
 2. Retrieve suitcases from Travel Shop.
 3. Prebook transfer/taxi to PPP.
-4. Fly to Sydney on the **later same-day Jetstar flight** if using Entice/Adventurer.
+4. Fly **JQ839 PPP 18:50 → SYD 21:15** once the planned flight change is confirmed.
 
 ---
 
@@ -217,15 +217,15 @@ Current booking: **JQ841 PPP → SYD, Fri Sep 11, 2:45pm → 5:10pm**.
 
 Booking is **Flex Plus**, so Jetstar permits date/time changes **without a change fee**; a fare difference may apply.
 
-### Action
+### Planned change
 
-Go to [Jetstar Manage Booking](https://www.jetstar.com/au/en/manage-booking) and price the **later Sep 11 PPP→SYD nonstop** before booking Entice/Adventurer. The booking reference is intentionally not stored in this public document. Do not rely on same-day availability even though Flex Plus permits free eligible same-day changes.
+Go to [Jetstar Manage Booking](https://www.jetstar.com/au/en/manage-booking) and change the Sep 11 return to **JQ839 PPP 18:50 → SYD 21:15**. The booking reference is intentionally not stored in this public document.
 
 ---
 
 # Booking order — do this now
 
-1. **Price/change Jetstar Sep 11 return to later same-day flight.**
+1. **Change Jetstar Sep 11 return to JQ839, PPP 18:50 → SYD 21:15.**
 2. **Check Entice / Entice II private triple for Sep 9 departure.**
 3. If unavailable, **check Whitsunday Adventurer private triple.**
 4. If private cabins are gone or not worth the premium, **book Apollo.**
@@ -240,4 +240,4 @@ Go to [Jetstar Manage Booking](https://www.jetstar.com/au/en/manage-booking) and
 > **Sep 8:** Bait Reef outer GBR; optional Mama Africa afterward  
 > **Sep 9 AM:** optional early skydive  
 > **Sep 9 PM–Sep 11:** Entice / Entice II private-triple 2D2N sailing  
-> **Sep 11:** retrieve suitcases → PPP → later Jetstar → Sydney
+> **Sep 11:** retrieve suitcases → PPP → **JQ839 18:50 → 21:15 Sydney**
